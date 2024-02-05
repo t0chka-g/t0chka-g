@@ -29,3 +29,5 @@
 - Tools: Git, Docker, Linux, Elasticsearch
 - Parallel Computing (C++): Mpi, OpenMP
 - Data Parsing: Scrapy, Selenium, Requests
+
+![Codewars](https://github.r2v.ch/codewars?user=G_Eazy)
