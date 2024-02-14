@@ -30,4 +30,4 @@
 - Parallel Computing (C++): Mpi, OpenMP
 - Data Parsing: Scrapy, Selenium, Requests
 
-![Codewars](https://github.r2v.ch/codewars?user=G_Eazy)
+![Codewars](https://github.r2v.ch/codewars?user=t0chka_g)
