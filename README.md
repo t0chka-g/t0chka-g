@@ -19,7 +19,7 @@
 - 🐍 Python: Web development, data processing, machine learning
 - 🖥️ Machine Learning: Keras, Tensorflow, Scikit-learn
 - 💾 Databases: Postgres, MySQL, SQLite; ORM
-- 🌐 Web: Flask, Django
+- 🌐 Web: Flask, Django, FastAPI
 - 🧪 Testing: PyTest, Unittest
 - 📊 Data Libraries: Pandas, Matplotlib, NumPy, SciPy
 - 📡 APIs: REST, GraphQL
