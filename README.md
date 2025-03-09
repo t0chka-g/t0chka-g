@@ -28,6 +28,4 @@
 - Languages: C++, Go, JavaScript
 - Tools: Git, Docker, Linux, Elasticsearch
 - Parallel Computing (C++): Mpi, OpenMP
-- Data Parsing: Scrapy, Selenium, Requests
-
-![Codewars](https://github.r2v.ch/codewars?user=t0chka_g)
+- Data Parsing: Scrapy, Playwright, Selenium, Requests
